@@ -1,6 +1,6 @@
 # portfolio_web_application
 
-#Techstack HTML CSS 
+#Techstack HTML CSS JS Bootstrap
 
 #Functionality:
 1) displays breif introduction of candidate
